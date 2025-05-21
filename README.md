@@ -1,1 +1,2 @@
-# fun exploring scenario discovery with EMA workbench
+# Exploring scenario discovery with EMA workbench
+## workspace for publication data and analysis
